@@ -17,5 +17,8 @@ driver.find_element(By.XPATH, "//*[@id='overview-hero']/h2").is_displayed()
 #     assert False
 
 driver.find_element(By.ID, "nav-btn-practice").click()
+driver.find_element(By.ID, "login-email").send_keys("breakathi@gmail.com")
+driver.find_element(By.ID, "login-password").send_keys("!Athenkosi2001")
+driver.find_element(By.ID, "login-submit").click()
 
 time.sleep(2)
