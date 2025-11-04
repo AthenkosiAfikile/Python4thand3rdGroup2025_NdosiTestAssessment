@@ -11,4 +11,4 @@
 ## Installation Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone
+   git clone https://github.com/AthenkosiAfikile/Python4thand3rdGroup2025_NdosiTestAssessment.git
